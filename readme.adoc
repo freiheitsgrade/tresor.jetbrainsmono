@@ -1,0 +1,24 @@
+= Jetbrains Mono-Tresor
+
+Dieses Repository dient als _Tresor_ für die Schriftart Jetbrains Mono
+von Jetbrains und soll sicherstellen, dass Freiheitsgrade
+immer auf diese Schriftart für Publikationen aller Art
+Zugriff hat.
+
+== Neue Versionen sichern
+
+Neue Versionen der Schriftart sind in diesem Repository
+abzulegen und mit einem eigenen Tag im Format `VERSION_X.X.X`
+zu taggen. Dabei soll eine neue Versionen die vorherige vollständig
+ersetzen.
+Auf ältere Versionen kann über die jeweiligen Tags zugegriffen
+werden.
+
+== Vorhandene Versionen
+
+Welche Versionen bereitsvorhanden sind, kann in der
+Übersicht über die Tags bei den Releases eingesehen werden.
+
+== Jetbrains Homepage für die Schriftart
+
+* https://www.jetbrains.com/lp/mono/

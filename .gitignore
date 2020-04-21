@@ -1,0 +1,7 @@
+# Intellij IDEA stuff
+.idea
+
+# Various files
+*~
+*.html
+*.zip
